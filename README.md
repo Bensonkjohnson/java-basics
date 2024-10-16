@@ -1,0 +1,1 @@
+This repository contains basic Java programs that illustrate core programming concepts, including loops, conditionals, and recursion. The main focus is on mathematical algorithms such as finding prime numbers and generating Fibonacci sequences
